@@ -1,0 +1,4 @@
+TcpExt: SyncookiesSent SyncookiesRecv ListenOverflows ListenDrops TCPTimeouts
+TcpExt: 0 0 7 9 3
+IpExt: InNoRoutes InOctets OutOctets
+IpExt: 0 123456 654321
